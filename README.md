@@ -24,7 +24,8 @@ Currently, VystroHub supports a wide variety of games. However, we are continuou
 
   use this Loadstring 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NoTwistedHere/Roblox/main/AntiAFK.lua"))()``` 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoTwistedHere/Roblox/main/AntiAFK.lua"))()
+``` 
 
 
 # Planned Features 🚧
